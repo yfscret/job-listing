@@ -1,0 +1,13 @@
+// Place all the styles related to the jobs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.alert-notice{
+background-color: green;
+}
+.invalid-feedback{
+  background: red;
+  padding: 5px;
+  border: 1px solid #fff;
+  position: relative;
+  top: 5px;
+}
